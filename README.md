@@ -6,4 +6,4 @@
 # файлы с расширением _override.tf.json .tfvars;
 # файлы override.tf, override.tf.json и любые файла название которых содержит _override.tf и _override.tf.json;
 # файлы с расширением .terraformrc и файл terraform.rc.
-# new line
+# new line in origin main
