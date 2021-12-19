@@ -1,4 +1,4 @@
-# Домашнее задание к занятию «2.4. Инструменты Git»
+git# Домашнее задание к занятию «2.4. Инструменты Git»
 Для выполнения заданий в этом разделе давайте склонируем репозиторий с исходным кодом терраформа https://github.com/hashicorp/terraform  
  git clone https://github.com/hashicorp/terraform.git
 
